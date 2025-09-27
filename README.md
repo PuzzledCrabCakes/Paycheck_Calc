@@ -10,24 +10,21 @@ and the amount paid. It does accept floats and it does consider time and a half.
 -----------------------------------
 
 How many hours did you work last week?
-40.2
+> 40.23
 
 -----------------------------------
 
 How many hours did you work this week?
-39.78
+> 39.56
 
 -----------------------------------
 
 How much do you get paid?
-16.25
+> 16.25
 
 -----------------------------------
 
-
------------------------------------
-
-You should expect $1301 gross
+You should expect $1298 gross
 
 -----------------------------------
 '''
