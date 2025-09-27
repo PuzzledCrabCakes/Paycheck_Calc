@@ -28,3 +28,6 @@ You should expect $1298 gross
 
 -----------------------------------
 '''
+
+# Considerations
+I do understand that this could be formatted way better. This was an older project from earlier in my python learning. I was cleaning up my files and came across this. I do not intend on updating it anymore. This repo will simply serve as a historical artifact.
